@@ -1,8 +1,6 @@
-# CS467_Animal_Adoption
+# Animal Adoption Web Application
 
-# Social Playlist Web Application
-
-This is an Agile XP Project built for CS361: Software Engineering W2020. 
+This is a group Capstone Web App Project built for CS467 W2021. 
 
 ## Project Idea:
 
