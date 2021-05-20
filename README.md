@@ -13,11 +13,11 @@ This is a group Capstone Web App Project built for CS467 W2021.
 
 ## Motivation
 
-  * We will be creating a responsive web application that will assist prospective adopters to find a suitable pet. Our goal is to go beyond the basic requirements and implement a web application that would easily facilitate animal adoption by creating a pleasant and simple user experience for both the public and admin users.
+  * Creating a responsive web application that will assist prospective adopters to find a suitable pet. Our goal is to go beyond the basic requirements and implement a web application that would easily facilitate animal adoption by creating a pleasant and simple user experience for both the public and admin users.
  
-  * We have included several ‘stretch’ features, such as implementing the adoption application submission (public user) and review (admin) and a news feed for new profiles and status updates, with the goal to include them to create the full pet adoption cycle. However, we have indicated that they are stretch goals with the agreement that they are extra features and we may need to adjust depending on time constraints and may not be able to implement them all.
+  * There are included several ‘stretch’ features, such as implementing the adoption application submission (public user) and review (admin) and a news feed for new profiles and status updates, with the goal to include them to create the full pet adoption cycle. However, we have indicated that they are stretch goals with the agreement that they are extra features and we may need to adjust depending on time constraints and may not be able to implement them all.
  
-  * We will be focusing on the user interaction with the pet profile instead of additional user account functionality (ie. designating admins) so we will provide Gmail login information for an account designated as an admin. Otherwise, any other Google account will be able to login to see the public user experience.
+  * The focus will be focusing on the user interaction with the pet profile instead of additional user account functionality (ie. designating admins) so we will provide Gmail login information for an account designated as an admin. Otherwise, any other Google account will be able to login to see the public user experience.
 
 ## Contributors:
 
