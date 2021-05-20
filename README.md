@@ -26,6 +26,7 @@ This is a group Capstone Web App Project built for CS467 W2021.
   * Jasper Wong
 
 ## Quickstart
+T.B.A
 
 Public users use any email account through Google Auth.
 Admin user please contact for test credentials.
